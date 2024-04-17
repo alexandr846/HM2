@@ -13,7 +13,6 @@ public class Main {
                 System.out.println("dog = " + dog);
                 cat += 4 ;
                 System.out.println("cat = " + cat);
-                System.out.println("paper = " + (paper + 4));
                 System.out.println("paper = " + paper);
 
 
